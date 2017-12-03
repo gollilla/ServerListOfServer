@@ -1,0 +1,10 @@
+name: query
+main: query\main
+version: 1
+api: [2.0.0]
+auther: 
+commands:
+ set:
+  description: "/set"
+ server:
+  description: "/server add [servername] [ip] [port] [owner] [info] or /server my"
